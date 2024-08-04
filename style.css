@@ -1,0 +1,26 @@
+body{
+    color: brown;
+    background-color: aliceblue;
+}
+header{
+    margin: 50px;
+    border-radius: 20px;
+    border: 15px double orangered;
+    padding: 50px;
+     text-align: center
+}
+section >div{
+    margin: 30px;
+    border-radius: 20px;
+    border: 15px double lightblue;
+    padding: 10px;
+    font-weight: 550;
+}
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+}
+h4{
+    font-size: larger;
+    font: weight 400; 
+}
